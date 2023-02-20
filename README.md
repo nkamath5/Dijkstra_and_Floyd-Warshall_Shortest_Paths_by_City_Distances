@@ -2,4 +2,4 @@
 
 main.cpp contains the code to run.
 
-sgb128_distance.txt & sgb128_name.txt are soucre files for the code.
+sgb128_distance.txt & sgb128_name.txt are source files for the code.
