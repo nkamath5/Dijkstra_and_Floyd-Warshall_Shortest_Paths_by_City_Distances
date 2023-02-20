@@ -11,5 +11,7 @@ and the names of each city.
 
 # Problem Description: 
 An undirected network was connected for cities with distance less than 100 miles. If there are no cities within 100 miles for a city i, it is connected to its nearest city. 
-Dijsktra’s Algorithm to finds the shortest paths from Springfield, IL to all the other cities. Reports the SP distance to Saint Johnsbury, VT
+
+Dijsktra’s Algorithm to finds the shortest paths from Springfield, IL to all the other cities. Reports the SP distance to Saint Johnsbury, VT.
+
 Floyd-Warshall Algorithm finds all-pairs shortest paths between all the cities. Reports the shortest path distance for the (s, t)-pair corresponding to the largest SP distance.
